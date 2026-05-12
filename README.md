@@ -83,6 +83,3 @@ You can `git push` directly to update production:
 
 ---
 
-## 📜 License
-
-MIT
