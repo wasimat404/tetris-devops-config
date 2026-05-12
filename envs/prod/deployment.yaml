@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: tetris
-          image: zenew/tetris-devops:sha-be47a2749044f6cc826457c2f01a5edbfc6347dc
+          image: zenew/tetris-devops:sha-e2a61d48feca4ef1f839553df37718abb02a1cdb
           imagePullPolicy: Always
           ports:
             - name: http
